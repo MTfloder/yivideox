@@ -1,6 +1,6 @@
 # 乂 片   Yi Videox
 
-![AppLogo](https://github.com/MTfloder/yivideox/settings/og-template)
+![AppLogo](https://raw.githubusercontent.com/MTfloder/yivideox/main/qxlarge-dsc-49CFB3061AAFC8A42ED1C56A06AE2AF5.jpg)
 
  ------ 免施法，輕鬆看到x視頻
 

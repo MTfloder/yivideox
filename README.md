@@ -8,6 +8,6 @@
 
 # 下載 APP
 
-[Github下載](https://github.com/MTfloder/yivideox/releases/download/YiVideoX/yivideox_release.apk)
+[點我下載](https://github.com/MTfloder/yivideox/releases/download/YiVideoX/yivideox_release.apk)
 
 - [發佈頁](https://github.com/MTfloder/yivideox/releases/latest)
